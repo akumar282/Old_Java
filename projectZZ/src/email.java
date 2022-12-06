@@ -8,9 +8,9 @@ import javax.activation.*;
 
 
 public class email  {
-	protected static String pass = "GeneralKenobiYouAreABoldOne#66";
+	protected static String pass = "[Redacted]";
 	protected static String address;
-	public static String sender = "stem4change2020@gmail.com";
+	public static String sender = "[Redacted]";
 	public static String type; 
 	public static String msg;
 	public static String subj; 
